@@ -2,8 +2,8 @@
 int main(){
 
 printf("hi everyone, my name is subham barik");
-printf("my name is jayashree")
-printf("my name is Dipayan Biswas")
-
-printf("my name is Subham Debnath")
+printf("my name is jayashree");
+printf("my name is Dipayan Biswas");
+printf("yo it's me souradip :p");
+printf("my name is Subham Debnath");
 }
